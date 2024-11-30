@@ -1,0 +1,2 @@
+# adulteracao-criptograma-hash
+ 
